@@ -1,1 +1,2 @@
-# DungeonCrawl
+# Dungeon Crawl
+College Coding Project
